@@ -1,3 +1,7 @@
+//Student Name: George Petty-O'Shea 
+//Student ID: 5031008
+//Date: 15-Dec-2021
+
 import javax.swing.JFrame;
 
 public class Pong extends JFrame {
